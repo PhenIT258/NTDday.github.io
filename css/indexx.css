@@ -1,0 +1,13 @@
+body{
+    font-family: "segoe ui";
+}
+hi{
+    text-align: center;
+}
+img{
+    display: block;
+    max-width:400px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+}
